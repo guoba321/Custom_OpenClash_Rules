@@ -1,7 +1,7 @@
 # Generated from rule/Encrypted_DNS.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Encrypted_DNS.list
-# TOTAL: 3410
+# TOTAL: 3405
 
 payload:
   - '+.003153.xyz'
@@ -253,6 +253,7 @@ payload:
   - '+.adguard.myddns.org'
   - '+.adguard.nasaud.info'
   - '+.adguard.neelyha.tk'
+  - '+.adguard.neon0404.space'
   - '+.adguard.netmasc.services'
   - '+.adguard.nielsenhost.dk'
   - '+.adguard.niko-sem.com'
@@ -632,7 +633,6 @@ payload:
   - '+.chungocoai.name.vn'
   - '+.chynik.duckdns.org'
   - '+.circumitor.de'
-  - '+.cld.996969.xyz'
   - '+.cleanbrowsing.org'
   - '+.clic.eu.org'
   - '+.closetruth.date'
@@ -822,7 +822,6 @@ payload:
   - '+.dns.abhimankolte.com'
   - '+.dns.abppro.ru'
   - '+.dns.adguard.com'
-  - '+.dns.adguarddns.com'
   - '+.dns.adnull.com'
   - '+.dns.adrianlam.com'
   - '+.dns.adriason.co.uk'
@@ -840,7 +839,6 @@ payload:
   - '+.dns.alwynstudio.com.au'
   - '+.dns.amigo-mgn.ru'
   - '+.dns.andreykiv.com'
-  - '+.dns.anitelekom.ru'
   - '+.dns.anne-pierre.fr'
   - '+.dns.anon.no'
   - '+.dns.api.gandi.net'
@@ -1386,7 +1384,6 @@ payload:
   - '+.dns.oryxlabs.com'
   - '+.dns.osmenoga.com'
   - '+.dns.ostfriese.org'
-  - '+.dns.oszx.co'
   - '+.dns.otezz.net'
   - '+.dns.ourvau.lt'
   - '+.dns.p3k.sk'
@@ -2097,7 +2094,6 @@ payload:
   - '+.f4ckdns.dl4mt.dev'
   - '+.f4f.es'
   - '+.facomunit.ddns.net'
-  - '+.family.adguarddns.com'
   - '+.family.dns.doubleangels.com'
   - '+.family.dns.teknoholistik.com'
   - '+.family.dot.dns.yandex.net'
@@ -2688,7 +2684,6 @@ payload:
   - '+.nrt.core.access.zznet.fun'
   - '+.nrusimha.crabdance.com'
   - '+.ns.00dani.me'
-  - '+.ns.77ll.ru'
   - '+.ns.cd'
   - '+.ns.ciwer.cn'
   - '+.ns.data.haus'
@@ -2745,6 +2740,7 @@ payload:
   - '+.oci02.at9.eu'
   - '+.oculta.me'
   - '+.odoh-target-noads-se.alekberg.net'
+  - '+.odoh-target-se.alekberg.net'
   - '+.odoh-target.alekberg.net'
   - '+.odvr.nic.cz'
   - '+.office.heimtec.com'
@@ -3190,7 +3186,6 @@ payload:
   - '+.unasw.eu'
   - '+.uncensored-dot.dnswarden.com'
   - '+.uncensoreddns.org'
-  - '+.unfiltered.adguarddns.com'
   - '+.unfiltered.joindns4.eu'
   - '+.unicast.censurfridns.dk'
   - '+.unicast.censurfridns.nu'
@@ -3303,7 +3298,6 @@ payload:
   - '+.vst-sh-se.mooo.com'
   - '+.vtcuong.site'
   - '+.vte01.dnscry.pt'
-  - '+.vuivn.site'
   - '+.walhalla.freemyip.com'
   - '+.walker.mynetgear.com'
   - '+.wallpap.eu'
@@ -3411,6 +3405,7 @@ payload:
   - '+.zulkas.top'
   - '+.zxcvb.pp.ua'
   - 'dns.cfiec.net'
+  - 'dns.oszx.co'
   - 'dns.shaw.ca'
   - 'kaitain.restena.lu'
   - 'resolver.dnsprivacy.org.uk'
